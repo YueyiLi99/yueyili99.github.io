@@ -11,6 +11,8 @@
 main:
   - title: "Research"
     url: /publications/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Policy Work"
     url: /policy/
   - title: "CV"
