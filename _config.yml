@@ -8,29 +8,30 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Yueyi Li"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url: "https://yueyili99.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+subtitle                 : "Ph.D. candidate, Princeton Politics"
+name                     : &name "Yueyi Li"
+description              : &description "Ph.D. candidate in Politics at Princeton University. I study geopolitics, trade, industrial policies, and global value chains."
+url                      : "https://yueyili99.github.io"
+baseurl                  : ""
+repository               : "YueyiLi99/yueyili99.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yueyi Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : >
+    Ph.D. candidate in Politics at Princeton University and graduate fellow at
+    the Niehaus Center for Globalization and Governance. My research examines
+    the political economy of trade, industrial policy, and global value chains.
+  location         : "Princeton, NJ"
+  employer         : "Princeton University"
+  email            : "yl5002@princeton.edu"
 
   # Academic websites
   academia         : # URL
@@ -66,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/yueyi-li-05a295170/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
